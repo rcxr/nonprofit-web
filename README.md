@@ -1,4 +1,4 @@
-# Quick Startt
+# Quick Start
 
 Install node, then npm install, then gulp.
 
